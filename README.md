@@ -35,14 +35,11 @@ This project integrates **Data Structures, Object-Oriented Programming, Computer
 ```bash
 pip install numpy matplotlib
 python main.py
-
----
-
-```bash
 git init
 git add .
 git commit -m "Initial commit - Pipeline Enhanced Quick Sort"
 git branch -M main
 git remote add origin https://github.com/jsmvfx/pipeline-quick-sort.git
 git push -u origin main
+---
 
